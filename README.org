@@ -1,0 +1,9 @@
+* Loopus
+
+A portable loop optimization framework for Common Lisp.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/marcoheisig/Loopus.git |
+| commit  | bd84132                                       |
+| systems | loopus loopus.sb-simd                         |
+|---------+-----------------------------------------------|
